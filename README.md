@@ -1,16 +1,22 @@
 # covid19_tracker
+A real-time tracking application for global and country-specific COVID-19 statistics.
 
-A new Flutter project.
 
-## Getting Started
+Worldwide Data:
+- Total cases
+- Recovered cases
+- Deaths
+- Critical cases
+- Active cases
+- Today's deaths
+- Today's recoveries
 
-This project is a starting point for a Flutter application.
+Country-Specific Data:
+- Search functionality for any country
+- Detailed statistics for selected country
 
-A few resources to get you started if this is your first Flutter project:
+Key technologies: Flutter, Dart, REST API, Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![covid 19 tracker app output](https://github.com/user-attachments/assets/7486b970-fc10-4cb9-94ad-07f959f225a6)
